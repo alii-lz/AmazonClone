@@ -1,2 +1,2 @@
 # AmazonClone
-amazon.com using html and css
+homepage of amazon.com using html and css
